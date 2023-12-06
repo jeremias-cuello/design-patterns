@@ -10,7 +10,7 @@
 - [x] proxy
 - [x] command
 - [x] memento
-- [] strategy
+- [x] strategy
 - [x] observer
 - [ ] dao
 - [ ] dependency injection
