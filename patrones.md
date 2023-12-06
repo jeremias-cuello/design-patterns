@@ -4,13 +4,14 @@
 - [x] factory
 - [x] abstract factory
 - [x] prototype
-- [x] mvc
+- [ ] mvc
 - [x] facade
 - [x] decorador
 - [x] proxy
 - [x] command
 - [x] memento
-- [ ] strategy
+- [] strategy
+- [x] observer
 - [ ] dao
 - [ ] dependency injection
 - [ ] antipatrones
