@@ -11,3 +11,5 @@ Tipos:
 
 Se confunde con patrones de arquitectura. <!-- cual es la diferencia? --> Por ejemplo POSA es una arquitectura de softaware orientada a patrones.
 <!-- Esto quiere decir que uno esta dentro de otro? -->
+
+Source: [Repositorio](https://github.com/mitocode21/patrones-diseno)
