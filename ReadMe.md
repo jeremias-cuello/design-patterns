@@ -1,6 +1,6 @@
 # Definicion
 
-Soluciones estandar. Conceptos de abstraccion, agrupar código de forma tal que pueda ser reutilizable. Todos tienen ventajas y desventajas.
+Soluciones estandar a problemas con sistemas orientado a objetos fundamentalmente. Conceptos de abstraccion, agrupar código de forma tal que pueda ser reutilizable. Todos tienen ventajas y desventajas.
 
 Tipos:
 
