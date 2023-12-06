@@ -1,13 +1,8 @@
 package com.jeremias.dao;
-import com.jeremias.model.*;
 
-import java.util.List;
+import com.jeremias.model.Persona;
 
-public interface PersonaDao {
+public interface PersonaDao extends CRUD<Persona>{
 
-	List<Persona> listarTodos();
-	Persona leerPorId(int id);
-	void registrar(Persona persona);
-	void actualizar(Persona persona);
-	void eliminar(int id);
+	void enfermarse();
 }

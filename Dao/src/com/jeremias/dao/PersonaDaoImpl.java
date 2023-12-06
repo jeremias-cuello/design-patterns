@@ -46,5 +46,10 @@ public class PersonaDaoImpl implements PersonaDao{
 		lista.remove(id);
 		System.out.println("ELIMINACION: " + aEliminar);
 	}
+
+	@Override
+	public void enfermarse() {
+		// alguna logica
+	}
 	
 }

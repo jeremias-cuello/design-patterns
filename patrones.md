@@ -12,7 +12,7 @@
 - [x] memento
 - [x] strategy
 - [x] observer
-- [ ] dao
+- [x] dao
 - [ ] dependency injection
 - [ ] antipatrones
 - [ ] proyecto web
